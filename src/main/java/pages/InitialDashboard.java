@@ -176,7 +176,7 @@ public class InitialDashboard extends javax.swing.JFrame {
 
     private void cookButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_cookButtonActionPerformed
         CookDashboard cookDashboard = new CookDashboard();
-//        this.dispose();
+        this.dispose();
         cookDashboard.setVisible(true);
     }//GEN-LAST:event_cookButtonActionPerformed
 
